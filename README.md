@@ -15,7 +15,7 @@ Utilizing open libraries, I've implemented basic ML models with minimal programm
 💽 Dealing with Big Data:
 As we discuss the utility of big data, I've delved into the nuances of processing vast amounts of data efficiently. Exploring distributed approaches, such as Apache Spark, has been integral to understanding how to handle substantial datasets.
 
-What I've Achieved:
+# What I've Achieved:
 🚀 Implemented Predictive Models:
 From conceptual understanding to practical implementation, this repository showcases the predictive models I've built, offering insights into individual preferences and behaviors.
 
