@@ -6,7 +6,7 @@ In this module, I've delved into the fascinating world of predictive analytics, 
 📊 Understanding Predictive Analytics:
 This module has equipped me with the skills to identify key variables and relationships within datasets, enabling the development of statistical models for predicting values of interest. From credit bank approvals to stock price predictions, the applications of predictive analytics are vast and impactful.
 
-# 🔍Importance of Quality Data:
+🔍 Importance of Quality Data:
 A crucial aspect of predictive analytics is recognizing the significance of high-quality data. I've explored the intricacies of data quality and leveraged open libraries of Machine Learning (ML) algorithms to implement models with efficiency and effectiveness.
 
 🤖 ML Algorithms and Model Comparison:
